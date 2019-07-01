@@ -1,0 +1,15 @@
+Entregavel - Fase de analize
+diag. de sequencias de cada caso de uso
+
+diag. de classe
+	atributos explicitos e conhecidos
+	metodos explicitos e conhecidos
+
+atualizar casos de uso
+atualizar prototipos de tela	
+atualizar documento de entrega
+diagrama de planejamento(grantt) vs tempo executado
+
+*Cinclo Mensal
+*Unidade -> dia
+*Mensalmente -> Scrum Board de inicio e de fim de ciclo
